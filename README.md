@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mohitxsh/Movie-Libr">
+  <a href="https://github.com/AayushMehta0924/MovieHub">
     <img src="assets/movie-libr.png" alt="Logo" width="80" height="80">
   </a>
   <!-- TABLE OF CONTENTS -->
@@ -23,16 +23,17 @@
     <br />
     <a href="https://frozen-stream-46804.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/mohitxsh/Movie-Libr/issues">Report Bug</a>
+    <a href="https://github.com/AayushMehta0924/MovieHub/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mohitxsh/Movie-Libr/issues">Request Feature</a>
+    <a href="https://github.com/AayushMehta0924/MovieHub/issues">Request Feature</a>
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Movie Library Screen Shot](https://github.com/mohitxsh/Movie-Libr/blob/main/assets/home.png)
+![Movie Library Screen Shot](https://user-images.githubusercontent.com/69192465/192872573-a19108fb-3bd9-4e43-8614-b080a50f8979.png)
+
 
 A MERN movie library application with a focus on user friendly UI and many functionalities.
 
@@ -43,8 +44,10 @@ Some of the features are:
 * Users can create custom movie playlists. A playlist can either be public or private. Public playlist link is available on the playlist page once signed in. Public playlists can be viewed by anyone without any authentication!
 
 Some more screenshots:
-![Movie Library-Login Screen Shot](https://github.com/mohitxsh/Movie-Libr/blob/main/assets/login.png)
-![Movie Library-Details Screen Shot](https://github.com/mohitxsh/Movie-Libr/blob/main/assets/batman.png)
+![Movie Library-Login Screen Shot](https://user-images.githubusercontent.com/69192465/192872692-21f6feab-e53b-4b98-996e-78fd008d152f.png)
+
+![Movie Library-Details Screen Shot](https://user-images.githubusercontent.com/69192465/192872721-6ce8438a-5e15-4c7f-93a1-82b2626819ea.png)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
